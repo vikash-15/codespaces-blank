@@ -20,6 +20,8 @@
 # print(isalliteration("The sun sank slowly to the west"))
 # print(isalliteration("The sun sank slowly to the west"))
 
-def isalliteration(s):
-    strarr=s.split()
+
+
+    
+    
     
